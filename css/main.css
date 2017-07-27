@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.opt1 {
+  background-color: #fff; }
+
+.opt2 {
+  background-color: greenyellow !important; }
+
+.opt3 {
+  background-color: skyblue; }
+
+/*# sourceMappingURL=main.css.map */
